@@ -1,4 +1,6 @@
 
+# 🤖 <samp>SYSTEM_STATUS: ONLINE</samp>
+
 <h1 align='center'>
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   Hello, folks! 
@@ -6,27 +8,76 @@
 
 
 <h3 align="center"> I'm Supratim</h3>
-<h2 align="center">A passionate developer from India</h2>
-<p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&theme=synthwave&text_color=ffffff&hide=CSS,SCSS" />
-  </p>
-  
-<p align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&&show_icons=true&text_color=ffffff&theme=synthwave&icon_color=E5566D&hide=contribs ">
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Mobile+App+Developer;React+Native+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
+</div>
+
+<h1 align='center'><i>"DECODE THE FUTURE. COMPILE THE DREAMS. EXECUTE THE GOALS."</i></h1>
+
+
+
+
+
+<br/>
+
+## 👨‍💻 // ABOUT_ME
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Supratim-Barai&label=PROFILE+VIEWS&color=00e5ff&style=flat-square" alt="Supratim-Barai" />
 </p>
 
-<h1 align='center'><i>"Arise,Awake And Stop Not Until The Goal is Achieved!"</i></h1>
+> **"Building high-performance, cross-platform experiences with a focus on UI/UX excellence."**
 
-<p align="center">
-<a href="https://twitter.com/supratim_barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="supratim_barai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/supratim-barai-95992a14a" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="supratim-barai-95992a14a" height="30" width="40" /></a>
-<a href="https://fb.com/supratim.barai" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="supratim.barai" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/itzz_supi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="itzz_supi" height="30" width="40" /></a> -->
+* 🌍 Based in **India**
+* 📱 Specializing in **React & React Native**
+* ⚡ Target: **60fps Performance**
+* 🛠️ Systems: **iOS + Android**
+
+---
+
+## 🛠 // SKILL_MATRIX
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
+### 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+</p>
 
+---
 
-<p align="center"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 // PROFICIENCY_SCAN
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&layout=compact&theme=tokyonight&hide_border=true&hide=CSS,SCSS" />
+ 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/supi24"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="supi24" /></a></p><br><br>
+---
+
+## 🔗 // CONNECT_WITH_ME
+<p align="left">
+<a href="https://github.com/Supratim-Barai" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Supratim-Barai" /></a>
+<a href="https://linkedin.com/in/supratim-barai-95992a14a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Supratim-Barai" /></a>
+</p>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true" alt="streak stats" />
+</div>
+
+---
+<p align="center"><samp>SB-DEV // 2026 // v2.0</samp></p>
