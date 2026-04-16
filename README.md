@@ -77,10 +77,13 @@
 
 # 📊 GitHub Stats  
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
-
+</div> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
+</p>
 ---
 
 # 🌌 Let's Connect  
