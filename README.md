@@ -19,13 +19,13 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supratim-barai-95992a14a)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://supratim-barai.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-liard-one-23.vercel.app/)
 
 </div>
 
 ---
 
-## 🧬 `> whoami`
+## 🧬 `> Who Am I`
 
 ```typescript
 const supratim = {
