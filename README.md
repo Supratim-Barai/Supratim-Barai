@@ -1,106 +1,155 @@
-<!-- Futuristic Developer README -->
+<div align="center">
 
-<h1 align='center'>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  Hello, folks! 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+```
+███████╗██╗   ██╗██████╗ ██████╗  █████╗ ████████╗██╗███╗   ███╗
+██╔════╝██║   ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║████╗ ████║
+███████╗██║   ██║██████╔╝██████╔╝███████║   ██║   ██║██╔████╔██║
+╚════██║██║   ██║██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██║╚██╔╝██║
+███████║╚██████╔╝██║     ██║  ██║██║  ██║   ██║   ██║██║ ╚═╝ ██║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝     ╚═╝
+```
 
+### ⚡ Futuristic Frontend & React Native Developer · AI Tools Expert · Prompt Engineer ⚡
 
-<h3 align="center"> I'm Supratim</h3>
-<h3 align="center">🚀 Futuristic Frontend & React Native Developer</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+the+future%2C+one+component+at+a+time+%F0%9F%9A%80;React+%7C+React+Native+%7C+TypeScript+%7C+GraphQL;AI+%2B+Code+%3D+%E2%9A%A1+Superpowers;Crafting+pixel-perfect+%26+performant+UIs" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=JavaScript+%7C+TypeScript+Developer;React+%26+React+Native+Specialist;Building+Modern+Scalable+Apps;Clean+UI+%2B+Powerful+Performance" />
-</p>
+<br/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=Supratim-Barai&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Supratim-Barai)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supratim-barai-95992a14a)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://supratim-barai.github.io/)
 
-## 🧠 About Me  
-
-✨ Passionate about building **modern, scalable & high-performance applications**  
-📱 Specialized in **React & React Native development**  
-🎯 Focused on clean architecture, performance & aesthetic UI  
-⚡ Always learning & exploring new tech  
-
----
-
-# 💻 Tech Arsenal  
-
-## 🧩 Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=ff69b4)
+</div>
 
 ---
 
-## ⚛️ Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=00F7FF)
-![React Native](https://img.shields.io/badge/React_Native-000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Context API](https://img.shields.io/badge/Context_API-000?style=for-the-badge&logo=react&logoColor=white)
+## 🧬 `> whoami`
+
+```typescript
+const supratim = {
+  role       : "Futuristic Frontend & React Native Developer",
+  superpower : "AI Tools × Prompt Engineering",
+  mission    : "Turn bold ideas into blazing-fast, beautiful experiences",
+  currentFocus: ["AI-powered UIs", "Cross-platform apps", "GraphQL architecture"],
+  philosophy  : "Write code that reads like poetry, performs like a rocket 🚀",
+};
+```
 
 ---
 
-## 🛠 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=orange)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![Android Studio](https://img.shields.io/badge/Android_Studio-000?style=for-the-badge&logo=androidstudio&logoColor=green)
-![Xcode](https://img.shields.io/badge/Xcode-000?style=for-the-badge&logo=xcode&logoColor=blue)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=yellow)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000?style=for-the-badge&logo=azuredevops&logoColor=blue)
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🗣️ Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+
+### 🔌 Backend & Integration
+
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/API_Integration-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🚀 DevOps & Deployment
+
+![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Software Deployment](https://img.shields.io/badge/Software_Deployment-0078D7?style=for-the-badge&logo=azure&logoColor=white)
+
+### 🧠 AI & Prompt Engineering
+
+![AI Tools](https://img.shields.io/badge/AI_Tools-Expert-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Pro-06B6D4?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
 
 ---
 
-## 🔗 Backend & Integration  
-![REST API](https://img.shields.io/badge/REST_API-000?style=for-the-badge&logo=api&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-000?style=for-the-badge&logo=socketdotio&logoColor=white)
-![API Integration](https://img.shields.io/badge/API_Integration-000?style=for-the-badge&logo=fastapi&logoColor=green)
-![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=ff69b4)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&border_radius=12" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supratim-Barai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&border_radius=12&hide=css" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&border_radius=12" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## 🚀 DevOps & Deployment  
-![CI/CD](https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions&logoColor=white)
-![Software Deployment](https://img.shields.io/badge/Deployment-000?style=for-the-badge&logo=docker&logoColor=blue)
-![Version Control](https://img.shields.io/badge/Version_Control-000?style=for-the-badge&logo=git&logoColor=orange)
+## 🌐 What I Build
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   📱  Cross-platform mobile apps with React Native         │
+│   🌐  Blazing-fast web apps with React + TypeScript        │
+│   🔗  Real-time features with WebSocket & GraphQL          │
+│   🤖  AI-enhanced workflows with prompt engineering        │
+│   🚀  Production-ready CI/CD deployment pipelines          │
+│   🎨  Pixel-perfect UIs via deep UI/UX collaboration       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🎨 Other Skills  
-✨ UI/UX Collaboration  
-🐞 Debugging  
-⚡ Performance Tuning  
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.zeabur.app/?username=Supratim-Barai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy" />
+
+</div>
 
 ---
 
-# 📊 GitHub Stats  
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div> -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supratim-Barai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supratim-Barai&theme=tokyonight&hide_border=true&background=00000000" height="160"/>
-</p>
----
+<div align="center">
 
-# 🌌 Let's Connect  
+### 💬 Dev Mantra
 
-<p align="center">
-  <a href="https://linkedin.com/in/supratim-barai-95992a14a">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-  </a>
-  <!-- <a href="mailto:itz.supi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a> -->
-  <a href="https://github.com/Supratim-Barai" target="blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Supratim-Barai" /></a>
-</p>
+> *"The best interface is one that feels inevitable — obvious in hindsight, magical in the moment."*
 
----
+<br/>
 
-<p align="center">
-  💫 <i>"Code. Create. Innovate. Repeat."</i>
-</p>
+**Let's build something extraordinary together.**
+
+[![Email](https://img.shields.io/badge/Email-Drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itz.supi@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/supratim-barai-95992a14a)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/X.com-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Supratim_barai)
+
+<br/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+</div>
